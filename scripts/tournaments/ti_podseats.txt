@@ -1,0 +1,212 @@
+"ti_podseats"
+{
+	// Add "home_team"	"1" to a team block to have them appear in the home team side of the display
+
+	//=========================================
+	// Vici Gaming
+	//=========================================
+	"team"
+	{
+		"home_team"		"1"
+
+		"teamid"		"726228"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=726228?u=public&appid=570		
+						
+		"players"
+		{
+			"seat0"			"91698091"			// rOtk
+			"seat1"			"90882159"			// Super
+			"seat2"			"113800818"			// Fenrir
+			"seat3"			"101695162"			// fy	
+			"seat4"			"108382060"			// Sylar
+		}
+	}
+
+	//=========================================
+	// NewBee
+	//=========================================
+	"team"
+	{
+		"teamid"		"1375614"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=1375614?u=public&appid=570
+						
+		"players"
+		{
+			"seat0"			"98887913"			// xiao8
+			"seat1"			"88508515"			// Hao
+			"seat2"			"89217927"			// Banana
+			"seat3"			"100883708"			// Sansheng	
+			"seat4"			"89157606"			// Mu
+		}
+	}
+	
+
+	//=========================================
+	// Evil Geniuses
+	//=========================================
+	"team"
+	{
+		"home_team"		"1"
+
+		"teamid"		"39"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=39?u=public&appid=570
+		
+		"players"
+		{
+			"seat0"			"121847953"			// Mason
+			"seat1"			"87276347"			// Universe
+			"seat2"			"86727555"			// ppd	
+			"seat3"			"73562326"			// zai
+			"seat4"			"86745912"			// Arteezy
+		}
+	}
+
+		
+	//=========================================
+	// Team DK
+	//=========================================
+	"team"
+	{
+		"teamid"		"7"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=7?u=public&appid=570
+										
+		"players"
+		{
+			"seat0"			"90892734"			// Burning
+			"seat1"			"89407113"			// MMY	
+			"seat2"			"89423756"			// Lanm
+			"seat3"			"89871557"			// Mushi
+			"seat4"			"84772440"			// iceiceice
+		}
+	}
+
+
+	//=========================================
+	// Cloud9
+	//=========================================
+	"team"
+	{
+		"home_team"		"1"
+
+		"teamid"		"1333179"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=1333179?u=public&appid=570
+												
+		"players"
+		{
+			"seat0"			"40547474"			// Aui_2000
+			"seat1"			"6922000"				// PieLieDie
+			"seat2"			"88719902"			// Bone7
+			"seat3"			"19757254"			// SingSing
+			"seat4"			"43276219"			// EternalEnvy
+		}
+	}
+
+
+	//=========================================
+	// Na'Vi
+	//=========================================
+	"team"
+	{
+		"teamid"		"36"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=36?u=public&appid=570
+								
+		"players"
+		{
+			"seat0"			"89625472"			// XBOCT
+			"seat1"			"82262664"			// Kuroky	
+			"seat2"			"87278757"			// Puppey
+			"seat3"			"70388657"			// Dendi
+			"seat4"			"86723143"			// Funn1k
+		}
+	}
+
+
+	//=========================================
+	// iG
+	//=========================================
+	"team"
+	{
+		"home_team"		"1"
+
+		"teamid"		"5"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=5?u=public&appid=570
+
+		"players"
+		{
+			"seat0"			"88553213"			// ChuaN	
+			"seat1"			"89246836"			// Luo / Xi
+			"seat2"			"82327674"			// Faith
+			"seat3"			"90045009"			// YYF
+			"seat4"			"88585077"			// Ferrari_430
+		}		
+	}
+
+				
+
+		
+	//=========================================
+	// LGD Gaming
+	//=========================================
+	"team"
+	{
+		"teamid"		"15"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=15?u=public&appid=570
+																				
+		"players"
+		{
+			"seat0"			"98878010"			// Yao
+			"seat1"			"123854991"			// Rabbit
+			"seat2"			"114239371"			// ddc
+			"seat3"			"89371588"			// DD
+			"seat4"			"136477860"			// Lin
+		}
+	}
+
+	//=========================================
+	// All Star XBOCT
+	//=========================================
+	"team"
+	{
+		"home_team"		"1"
+
+		"teamid"		"824639"
+		
+		// http://www.dota2.com/teams/teamdetails/?teamid=824639?u=public&appid=570
+
+		"players"
+		{
+			
+			"seat0"			"70388657"			// Dendi
+			"seat1"			"101495620"			// Loda
+			"seat2"			"84772440"			// iceiceice
+			"seat3"			"86745912"			// Arteezy
+			"seat4"			"88553213"			// ChuaN	
+		}
+	}
+
+	//=========================================
+	// All Star rOtK
+	//=========================================
+	"team"
+	{
+		"teamid"		"824543"
+
+		// http://www.dota2.com/teams/teamdetails/?teamid=824543?u=public&appid=570																										
+		"players"
+		{		
+			"seat0"			"88585077"			// Ferrari_430
+			"seat1"			"19672354"			// N0Tail / BigDaddy
+			"seat2"			"87278757"			// Puppey
+			"seat3"			"41231571"			// s4
+			"seat4"			"90892734"			// Burning
+		}
+	}
+}

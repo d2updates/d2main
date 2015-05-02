@@ -1,0 +1,70 @@
+"ti_schedule"
+{
+	"title"		"<font color='#d6b69e'>MATCHES<br>TODAY</font>"
+
+	// team names
+	//===========
+
+	// eg
+	// newbee
+	// vici
+	// navi
+
+	// dk
+	// ig
+	// c9
+	// lgd
+
+	// tbd
+
+	"Winner's Bracket"
+	{
+		"match"
+		{
+			"team1"		"vici"
+			"team2"		"newbee"
+			"subtitle"	"best of 3"
+		}
+
+		"match"
+		{
+			"team1"		"eg"
+			"team2"		"dk"
+			"subtitle"	"best of 3"
+		}
+
+		"match"
+		{
+			"team1"		"tbd"
+			"team2"		"tbd"
+			"subtitle"	"best of 3"
+		}
+	}
+
+	"Lower Bracket"
+	{
+		"match"
+		{
+			"team1"		"titan"
+			"team2"		"cisgame"
+		}
+
+		"match"
+		{
+			"team1"		"liquid"
+			"team2"		"newbee"
+		}
+
+		"match"
+		{
+			"team1"		"dk"
+			"team2"		"tbd"
+		}
+
+		"match"
+		{
+			"team1"		"arrow"
+			"team2"		"ig"
+		}
+	}
+}
