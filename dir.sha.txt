@@ -762,4 +762,4 @@ edc5c419bd81694d5ff67ad4f02c1c53d0be1872 resource/valve_turkish.txt
 0995702d4a77ed0f9d6bee8c8e91a030d5ed3b02 resource/valve_ukrainian.txt
 39cf3a8c063de6c9953670134bc1a74159d6c64f sound/sound.cache
 800cb80dfcc7081d0288ffd1321d83371edf4cf9 sound/ui/stingers/match_ready_no_focus.wav
-f7a4ea84f862b8253368618c62c1b19c32350a8e steam.inf
+67bb9fa10be72f6c93e99d3b1d3146068947db8f steam.inf
