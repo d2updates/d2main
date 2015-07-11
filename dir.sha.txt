@@ -1,4 +1,4 @@
-0d9fe24151692550c0f1b4f398a9a880a8b94d51 bin/client.dll
+5cb6dc85e88482f216de0ddcdefa7116d50c86d4 bin/client.dll
 eb5cd2b00e7edeaf62d04ba65028985a2d493406 bin/server.dll
 03518e6eda33de0c5ffdeda6389f0bf6e4b37c0d gameinfo.txt
 b950c50bf2304e3a4cf5a446d6abef35c412bb23 itembuilds/default_abaddon.txt
@@ -762,4 +762,4 @@ edc5c419bd81694d5ff67ad4f02c1c53d0be1872 resource/valve_turkish.txt
 0995702d4a77ed0f9d6bee8c8e91a030d5ed3b02 resource/valve_ukrainian.txt
 39cf3a8c063de6c9953670134bc1a74159d6c64f sound/sound.cache
 800cb80dfcc7081d0288ffd1321d83371edf4cf9 sound/ui/stingers/match_ready_no_focus.wav
-11704a3423737d45802932fdfa5d09b13627238f steam.inf
+f7a4ea84f862b8253368618c62c1b19c32350a8e steam.inf
