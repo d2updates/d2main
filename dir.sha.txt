@@ -1,5 +1,5 @@
-8858eca197ec1563ba909b1c8953857c12de2bb4 bin/client.dll
-b57e70230805a1938215dffb9d6f4437d5a05aeb bin/server.dll
+ffaf9ea5d223ba064d5df24e7c2d1cc91ddf5e00 bin/client.dll
+d1d9089bd7d538c4ab4f02bea5a7dd57e4d37d41 bin/server.dll
 03518e6eda33de0c5ffdeda6389f0bf6e4b37c0d gameinfo.txt
 b950c50bf2304e3a4cf5a446d6abef35c412bb23 itembuilds/default_abaddon.txt
 3330c1e7b92ac18e44e1a515910009d09c235190 itembuilds/default_alchemist.txt
@@ -762,4 +762,4 @@ edc5c419bd81694d5ff67ad4f02c1c53d0be1872 resource/valve_turkish.txt
 0995702d4a77ed0f9d6bee8c8e91a030d5ed3b02 resource/valve_ukrainian.txt
 c07081d1ff9b6a44038ea0e0d665858602e44d5a sound/sound.cache
 800cb80dfcc7081d0288ffd1321d83371edf4cf9 sound/ui/stingers/match_ready_no_focus.wav
-65a85279dddb62f7af28f18472fe0c01d8828758 steam.inf
+6da677dc564015f3c8056ef631e64d558faa33cf steam.inf
