@@ -1,6 +1,6 @@
 "ti_schedule"
 {
-	"title"		"<font color='#d6b69e'>MATCHES<br>TODAY</font>"
+	"title"		"<font color='#d8c081'>Today's Matches</font>"
 
 	// team names
 	//===========
@@ -16,11 +16,11 @@
 	// lgd
 
 	// tbd
-
-	"Winner's Bracket"
+	"matches"
 	{
 		"match"
 		{
+			"series_name"	"Upper Bracket 1A"
 			"team1"		"726228"
 			"team2"		"1375614"
 			"subtitle"	"best of 3"
@@ -28,25 +28,13 @@
 
 		"match"
 		{
+			"series_name"	"Upper Bracket 1B"
 			"team1"		"39"
 			"team2"		"4"
 			"subtitle"	"best of 3"
 		}
 
-		"match"
-		{
-			"team1"		"0"
-			"team2"		"0"
-			"subtitle"	"we don't know"
-		}
+		
 	}
-
-	"Lower Bracket"
-	{
-		"match"
-		{
-			"team1"		"1883502"
-			"team2"		"2006913"
-		}
-	}
+	
 }
