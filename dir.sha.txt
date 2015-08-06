@@ -1,4 +1,4 @@
-3976a4d39372a1b5c5c63eaad0f13d5fa18b90ba bin/client.dll
+12f4233b4c0840275c34f529f0243b8c6dd7c56b bin/client.dll
 c3532494640e89845e7c762029217305f1789185 bin/server.dll
 4265582995122816a6d19df064f41dd6892fac07 cfg/ti_announcements.cfg
 ab939d114ef07a92170b040c2f14dd1e3a495f37 cfg/ti_onstage_pods.cfg
@@ -777,4 +777,4 @@ e2060354fdaae6e3b98d739c7b12504b7c930d08 scripts/tournaments/ti_featured_items.t
 7d423628c0116e8713e1c735d5fa8b0bc210e435 scripts/tournaments/ti_upcoming.txt
 5000543f1c24c8afb1a185e86557b29f87790216 sound/sound.cache
 800cb80dfcc7081d0288ffd1321d83371edf4cf9 sound/ui/stingers/match_ready_no_focus.wav
-a87fe1bdf2d5a05fd0e982c19efd937d5ee70e89 steam.inf
+bb33ab8c9f20f69b5da9e1bcd272d32264687bd5 steam.inf
