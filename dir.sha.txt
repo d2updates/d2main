@@ -777,4 +777,4 @@ e2060354fdaae6e3b98d739c7b12504b7c930d08 scripts/tournaments/ti_featured_items.t
 7d423628c0116e8713e1c735d5fa8b0bc210e435 scripts/tournaments/ti_upcoming.txt
 5000543f1c24c8afb1a185e86557b29f87790216 sound/sound.cache
 800cb80dfcc7081d0288ffd1321d83371edf4cf9 sound/ui/stingers/match_ready_no_focus.wav
-7e485c72dc85a85215f24b3d6fa462bc9aeffeb0 steam.inf
+18795c814547f547fee1a57b9a823439c6886783 steam.inf
